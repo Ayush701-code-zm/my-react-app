@@ -10,7 +10,15 @@ function App() {
     <>
       <h1>Ha Ji GoodMorning</h1>
 
-      <p className="read-the-docs">Mera Naam Ayush Hai</p>
+      <p className="read-the-docs">
+        {" "}
+        sudo apt update sudo apt install npm -y sudo npm install n -g sudo n 18
+        sudo apt install nginx curl localhost cd /var/www/html/ sudo rm
+        index.nginx-debian.html cd git clone
+        https://github.com/Ayush701-code-zm/my-react-app.git cd my-react-app npm
+        install npm run build cd dist sudo cp -r * /var/www/html/ cd
+        /var/www/html/
+      </p>
     </>
   );
 }
